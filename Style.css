@@ -1,0 +1,222 @@
+#Container
+{
+    height: 450px;
+    width: 90%;
+    background-color:rgb(9, 27, 83) ;
+    margin: 0px auto;
+}
+#Header
+{
+    height: 90px;
+    background-color: white;
+}
+
+#Header ul
+{
+    float: right;
+    margin-top: 18px;
+}
+#Header ul li
+{
+    display: inline;
+    margin-right: 80px;
+}
+#Header ul li a
+{
+    font-size: 25px;
+    text-decoration: none;
+    color: black;
+    font-style: initial;
+}
+#Careers
+{
+    color: white;
+}
+#Careers h1
+{
+    padding-top: 30px;
+    font-size: 37px;
+    text-align: center;
+}
+#Careers h3 p
+{
+    padding-top: 10px;
+    margin-left: 130px;
+    font-style: oblique;
+    margin-bottom: 60px;
+    
+}
+#Careers a
+{
+    margin-left: 580px;
+    color: black;
+    text-decoration: none;
+    background-color: white;
+    font-size: 30px;
+    display: inline-block;
+    font-weight: bold;
+}
+#Bottom1
+{
+    margin-top: 170px;
+    width: 70%;
+    background-color: white;
+    height: 350px;
+    float: left;
+}
+#Bottom2
+{
+    margin-top: 170px;
+    width: 30%;
+    background-color: white;
+    height: 350px;
+    float: right;
+}
+#Bottom1 h2
+{
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 45px;
+}
+#Bottom3
+{
+    margin-top: 460px;
+    width: 100%;
+    background-color: white;
+    height: 170px;
+    margin-bottom: 30px;
+}
+#Bottom3 h2
+{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+#Bottom3 p
+{
+    margin-left: 250px;
+    font-size: 20px;
+}
+#Context1
+{
+    margin-top: 1px;
+    width: 32%;
+    background-color: beige;
+    height: 200px;
+    float: left;
+    margin-right: 2%;
+}
+#Context2
+{
+    margin-top: 1px;
+    width: 32%;
+    background-color:beige;
+    height: 200px;
+    float: left;
+}
+#Context3
+{
+    margin-top: 1px;
+    width: 32%;
+    background-color:beige;
+    height: 200px;
+    float: right;
+}
+#Context1 
+{
+    text-align: center;
+}
+#Context2 
+{
+    text-align: center;
+}
+#Context3 
+{
+    text-align: center;
+}
+#Context1 p
+{
+    font-size: 18px;
+}
+#Context2 p
+{
+    font-size: 18px;
+}
+#Context3 p
+{
+    font-size: 18px;
+}
+#Bottom4
+{
+    margin-top: 30px;
+    width: 25%;
+    background-color: purple;
+    height: 500px;
+    float: left;
+    color: white;
+}
+#Bottom5
+{
+    margin-top: 30px;
+    width: 25%;
+    background-color: purple;
+    height: 500px;
+    float: left;
+    color: white;
+}
+#Bottom6
+{
+    margin-top: 30px;
+    width: 25%;
+    background-color: purple;
+    height: 500px;
+    float: left;
+    color: white;
+}
+#Bottom7
+{
+    margin-top: 30px;
+    width: 25%;
+    background-color: purple;
+    height: 500px;
+    float: right;
+    color: white;
+}
+#Bottom4 h2
+{
+    text-align: center;
+}
+#Bottom5 h2
+{
+    text-align: center;
+}
+#Bottom6 h2
+{
+    text-align: center;
+}
+#Bottom7 h2
+{
+    text-align: center;
+}
+#Bottom4 a
+{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+#Bottom5 a
+{
+    text-decoration: none;
+    color: white;
+}
+#Bottom6 a
+{
+    text-decoration: none;
+    color: white;
+}
+#Bottom7 a
+{
+    text-decoration: none;
+    color: white;
+}
