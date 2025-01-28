@@ -1,0 +1,10 @@
+body
+{
+    background-color: rgb(95, 6, 6);
+}
+#Container
+{
+    background-color: rgb(36,40,146);
+    height: 10px;
+    width:10%;
+}
